@@ -1,0 +1,12 @@
+{
+  "INPUT_DIR": "../data/input/",
+  "OUTPUT_DIR": "../data/output/",
+  "TWEET_DIR": "../data/tweets/",
+  "NRC_DIR": "/Users/ddemszky/Google_Drive/Research/nrc_emotion_lexicon/",
+  "MALLET": "/Users/ddemszky/mallet-2.0.8/bin/mallet",
+  "BTM": "/Users/ddemszky/BTM/",
+  "SAMPLE_SIZE_FOR_TOPICS": 10000,
+  "NUM_CLUSTERS": 8,
+  "CLUSTER_NAMES": {"shooter's identity\n& ideology": 0, "news": 1, "victims & location": 2, "laws & policy": 3, "investigation": 4, "solidarity": 5, "remembrance": 6, "other": 7},
+  "SEED": 42
+}
